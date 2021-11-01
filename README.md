@@ -20,6 +20,9 @@ Each script need to be executed in blocks (listed in each script and in the foll
 
 ## Workflow
 
+### Block zero
+Initial import and definition of various functions, just execute all the code in Zero Block
+
 ### First block
 
 * Source data is loaded
@@ -49,4 +52,9 @@ Each script need to be executed in blocks (listed in each script and in the foll
 
 
 ### Fourth block
-
+Execute all the code to plot:
+* maxD/length normalized
+* maxA/maxD
+* maxA/length
+* max D/L distribution 
+* Displacement distribution for each fault
