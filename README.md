@@ -34,7 +34,9 @@ GIS folder contains:
 * anaconda + provided environment
 
 ## How-to
-* Clone this repository get inside the clone folder
+* Download the data repository from [here](10.5281/zenodo.7472749)
+* Clone this repository
+* Copy data folder inside this repository folder and get inside
 * Create the environment using the yml file.
 * Execute jupyter lab
 * Open each notebook and execute
