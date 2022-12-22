@@ -2,7 +2,7 @@
 
 These python scripts are ancillary material of "A semi-automated analysis of displacement-to-length scaling of the grabens affecting lunar Floor-Fractured craters" by Erica Luzzi1, Giacomo Nodjoumi1, Matteo Massironi2, Riccardo Pozzobon3, 2, Angelo Pio Rossi1
 
-1 Department of Physics and Earth Sciences, Jacobs University Bremen, Germany (e.luzzi@jacobs-university.de)
+1 School of Science, Constructor University Bremen gGmbH (formerly Jacobs University Bremen), Bremen, Germany (e.luzzi@jacobs-university.de)
 2 Dipartimento di Geoscienze, Università degli Studi di Padova, Italy
 3 INAF-OAPD, Italy
 
